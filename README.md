@@ -17,7 +17,6 @@ It contains source code under `src`, project configuration with `pom.xml`, devel
 ├── mvnw.cmd               # Maven wrapper script (Windows)
 └── README.md              # This file
 ```
-:contentReference[oaicite:2]{index=2}
 
 ## 🚀 Features
 
